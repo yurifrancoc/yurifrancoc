@@ -2,7 +2,7 @@
 
 Desenvolvedor **Back-end** atualmente estudando **Javascript** | **Node.js** | **Banco de Dados** | **PostgreSQL** | **SQL** e graduando em Engenharia
 
-:computer: Cursando Denvolvimento de Software com foco em Back-End na Cubos Academy, em busca de oportunidade Jr./Estágio:computer:
+:computer: Cursando Desenvolvimento de Software com foco em Back-End na Cubos Academy, em busca de oportunidade Jr./Estágio:computer:
 
 ## Contato 
 
