@@ -1,6 +1,6 @@
 # Olá! :wave: :grinning:
 
-Desenvolvedor **Back-end** atualmente estudando **Javascript** | **Node.js** | **Banco de Dados** | **PostgreSQL** | **SQL** e graduando em Engenharia
+Desenvolvedor **Back-end** atualmente estudando **Javascript** | **Node.js** | **Banco de Dados** | **PostgreSQL** | **SQL** e graduando em Engenharia.
 
 :computer: Cursando Desenvolvimento de Software com foco em Back-End na Cubos Academy, em busca de oportunidade Jr./Estágio:computer:
 
@@ -14,3 +14,9 @@ Desenvolvedor **Back-end** atualmente estudando **Javascript** | **Node.js** | *
 
 
 > Os hábitos são um loop de três etapas – a deixa, – a rotina e a recompensa. - *Charles Duhigg*
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurifrancoc&layout=compact&theme=dracula&custom_title=Linguagens%20%mais%20%Utilizadas)
+
+
+
